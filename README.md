@@ -1,0 +1,2 @@
+# Spatio_Temporal_Relative_Humidity_Analysis_Using_ERA5_Land_Agadeez_region_April_2024
+This study analyzes spatio-temporal variations in relative humidity over Agadez region, Maharashtra, using ERA5-Land hourly data for April 2024. Relative humidity is derived from air temperature and dew point temperature to assess atmospheric moisture patterns, supporting climate analysis, agriculture, and environmental monitoring.
