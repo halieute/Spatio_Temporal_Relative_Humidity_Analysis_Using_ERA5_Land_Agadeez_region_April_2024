@@ -108,6 +108,8 @@ classDescriptors.forEach(function(d) {
 Map.add(legend);
 ```
 
+link https://code.earthengine.google.com/33c9ec0b5ca826b87f8cb50b120547fe
+
 ---
 
 ## Analysis
